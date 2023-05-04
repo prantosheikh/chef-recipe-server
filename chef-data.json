@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "ChefPicture": "https://i.ibb.co/m6vm2kG/kitchen-81493.jpg",
+    "ChefName": "Jean-Pierre Dubois",
+    "YearsOfExperience": 15,
+    "NumbersoFrecipes": 80,
+    "Likes": 2000,
+    "recipes": [
+      {
+        "RecipeName": "Boeuf Bourguignon",
+        "Ingredients": [
+          "beef,red wine,carrots,onion,garlic,thyme,bay leaves,flour,salt,peppe"
+        ],
+        "Directions": "1. Preheat the oven to 350°F. 2. Cut beef into large chunks and coat with flour. 3. Brown the beef in a large Dutch oven with some olive oil. 4. Add chopped onion and garlic, and cook until softened. 5. Pour in red wine, beef broth, and add thyme and bay leaves. 6. Bring to a boil and then transfer to the oven. 7. Bake for 2-3 hours, until the beef is tender. 8. Serve with boiled carrots and potatoes.",
+        "Image": "https://i.ibb.co/LJ5wPVk/delicious-goulash-ready-dinner.jpg"
+      },
+      {
+        "RecipeName": "Chicken Fajitas",
+        "Ingredients": [
+          "chicken",
+          "bell peppers",
+          "onion",
+          "lime",
+          "cumin",
+          "chili powder",
+          "salt",
+          "pepper"
+        ],
+        "Directions": "1. Heat a large skillet over medium-high heat. 2. Add sliced bell peppers and onion to the skillet and cook until softened. 3. Add sliced chicken to the skillet and cook until browned. 4. Season with cumin, chili powder, salt, and pepper. 5. Squeeze fresh lime juice over the chicken and vegetables. 6. Serve with tortillas, salsa, and guacamole.",
+        "Image": "https://i.ibb.co/1nyc63Y/side-view-doner-pita-with-french-fries-fresh-cucumber-tomato.jpg",
+        "Likes": 300
+      },
+      {
+        "RecipeName": "Boeuf Bourguignon",
+        "Ingredients": [
+          "beef,red wine,carrots,onion,garlic,thyme,bay leaves,flour,salt,pepper"
+        ],
+        "Directions": "1. Preheat the oven to 350°F. 2. Cut beef into large chunks and coat with flour. 3. Brown the beef in a large Dutch oven with some olive oil. 4. Add chopped onion and garlic, and cook until softened. 5. Pour in red wine, beef broth, and add thyme and bay leaves. 6. Bring to a boil and then transfer to the oven. 7. Bake for 2-3 hours, until the beef is tender. 8. Serve with boiled carrots and potatoes.",
+
+        "Image": "https://i.ibb.co/2ybD7ZC/chicken-larb-plate-with-dried-chilies-tomatoes-spring-onions-lettuce.jpg",
+        "Likes": 1000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "ChefPicture": "https://i.ibb.co/28hBH7v/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
+    "ChefName": "Emmanuelle Dupont",
+    "YearsOfExperience": 8,
+    "NumbersoFrecipes": 45,
+    "Likes": 1500,
+    "recipes": [
+      {
+        "RecipeName": "Ratatouille",
+        "Ingredients": [
+          "chicken,red wine,mushrooms,bacon,onion,garlic,thyme,bay leaves,flour,salt,peppe"
+        ],
+        "Directions": "1. Preheat oven to 375°F. 2. Slice eggplant, zucchini, yellow squash, and tomato into thin rounds. 3. Arrange the vegetables in a baking dish, alternating them. 4. In a small bowl, mix minced garlic with olive oil and drizzle over the vegetables. 5. Sprinkle with salt, pepper, and thyme. 6. Bake for 40-45 minutes, until the vegetables are tender. 7. Serve as a side dish or over rice or pasta.",
+        "Image": "https://i.ibb.co/dcXXTdY/baked-salmon-with-vegetables-ratatouille.jpg",
+        "Likes": 700
+      },
+      {
+        "RecipeName": "Choucroute Garnie",
+        "Ingredients": [
+          "1 lb sauerkraut",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "1 tsp caraway seeds"
+        ],
+        "Directions": "1. Rinse the sauerkraut in cold water and drain.\n2. In a large Dutch oven, sauté the onion and garlic over medium heat until softened.\n3. Add the caraway seeds and bay leaf and cook for another minute.\n4. Add the sauerkraut to the pot and stir well.\n5. Add the sausage, pork chops, and potatoes on top of the sauerkraut.\n6. Pour the white wine and chicken broth over the sauerkraut mixture.\n7. Add the Dijon mustard and honey and stir well.\n8. Season with salt and pepper.\n9. Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for about 2 hours, or until the pork and potatoes are tender.\n10. Discard the bay leaf and transfer the sauerkraut mixture to a serving dish.\n11. Garnish with chopped parsley before serving.",
+        "Image": "https://i.ibb.co/ZH8SKrF/delicious-fresh-apple-pie-kitchen-cloth-close-up.jpg",
+        "Likes": 800
+      },
+      {
+        "RecipeName": "Gougères",
+        "Ingredients": [
+          "1 cup water",
+          "1/2 cup unsalted butter",
+          "1 tsp salt",
+          "1 cup all-purpose flour"
+        ],
+        "Directions": "1. Preheat the oven to 375°F. Line a baking sheet with parchment paper.\n2. In a medium saucepan, bring the water, butter, and salt to a boil over medium heat.\n3. Add the flour all at once and stir vigorously with a wooden spoon until the mixture comes together and pulls away from the sides of the pan.\n4. Remove the pan from the heat and let cool for 2-3 minutes.\n5. Add the eggs one at a time, beating well after each addition, until the dough is smooth and shiny.\n6. Stir in the Gruyère cheese, Parmesan cheese, black pepper, and nutmeg.\n7. Using a tablespoon or a cookie scoop, drop the dough onto the prepared baking sheet, spacing them about 2 inches apart.\n8. Bake for 20-25 minutes, or until the gougères are puffed, golden brown, and firm to the touch.\n9. Serve warm or at room temperature.",
+        "Image": "https://i.ibb.co/wJc3Cgc/female-hands-holding-roasted-camembert-cheese-homemade-bread-heart-shaped-thyme-rustic-background-fr.jpg",
+        "Likes": 1200
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "ChefPicture": "https://i.ibb.co/Yp4jWRg/toa-heftiba-5-Je-Tin55-H9-U-unsplash.jpg",
+    "ChefName": "Julien Dupont",
+    "YearsOfExperience": 12,
+    "NumbersoFrecipes": 65,
+    "Likes": 1500,
+    "recipes": [
+      {
+        "RecipeName": "Coq au Vin",
+        "Ingredients": ["chicken", "bacon", "onion", "carrots", "garlic"],
+        "Directions": "1. Preheat the oven to 350°F. 2. In a large Dutch oven or casserole, cook bacon until crispy. 3. Remove bacon and set aside. 4. Season chicken pieces with salt and pepper, then sear in bacon fat until golden brown on both sides. 5. Remove chicken and set aside. 6. In the same pan, sauté onions, garlic and carrots until they begin to soften. 7. Add flour and stir until vegetables are coated. 8. Return the chicken and bacon to the pan, add wine and chicken broth, and bring to a boil. 9. Add thyme, bay leaves, and additional salt and pepper to taste. 10. Cover and place in the oven for about 1.5 hours or until the chicken is tender. 11. Serve hot with bread or potatoes.",
+        "Image": "https://i.ibb.co/G3260Jw/baked-potatoes-with-garlic-herbs-fried-chanterelles-cast-iron-skillet-top-view.jpg",
+        "Likes": 800
+      },
+      {
+        "RecipeName": "Ratatouille",
+        "Ingredients": ["eggplant", "zucchini", "yellow squash", "onion"],
+        "Directions": "1. Preheat the oven to 375°F. 2. Slice the eggplant, zucchini, and yellow squash into thin rounds. 3. Slice the onion and bell peppers into thin strips. 4. In a large baking dish, layer the vegetables in a circular pattern, alternating the different vegetables. 5. Crush the garlic and sprinkle it over the vegetables. 6. Drizzle olive oil over the top of the vegetables, and season with salt, pepper, and thyme. 7. Cover the dish with aluminum foil and bake for 45 minutes. 8. Remove the foil and bake for an additional 15 minutes or until the vegetables are tender. 9. Serve hot or at room temperature.",
+        "Image": "https://i.ibb.co/q0L81WN/roasted-vegetable.jpg",
+        "Likes": 700
+      },
+      {
+        "RecipeName": "Salade Niçoise",
+        "Ingredients": ["chicken", "bacon", "onion", "carrots", "garlic"],
+        "Directions": "1. In a large salad bowl, combine the tuna, cherry tomatoes, haricot verts, hard-boiled eggs, kalamata olives, red onion, and capers.\n2. In a small bowl, whisk together the parsley, basil, olive oil, red wine vinegar, Dijon mustard, salt, and pepper.\n3. Drizzle the dressing over the salad and toss gently to combine.\n4. Serve chilled.",
+        "Image": "https://i.ibb.co/TrTxLMv/healthy-hearty-salad-tuna-green-beans-tomatoes-eggs-potatoes-black-olives-close-up-bowl-table.jpg",
+        "Likes": 1400
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "ChefPicture": "https://i.ibb.co/Btng5RP/michael-wave-CYn-QUywz-Bt-I-unsplash.jpg",
+    "ChefName": "Emmanuel Dupont",
+    "YearsOfExperience": 15,
+    "NumbersoFrecipes": 75,
+    "Likes": 1200,
+    "recipes": [
+      {
+        "RecipeName": "Escargots de Bourgogne",
+        "Ingredients": [
+          "24 snails, shelled",
+          "1/2 cup unsalted butter",
+          "2 shallots, minced",
+          "2 garlic cloves, minced",
+          "1/4 cup chopped parsley",
+          "1/4 cup chopped chives",
+          "1 tbsp lemon juice",
+          "Salt and pepper to taste",
+          "24 snail shells"
+        ],
+        "Directions": "1. Preheat oven to 375°F.\n2. In a small saucepan, melt the butter over medium heat. Add the shallots and garlic and cook until softened.\n3. Stir in the parsley, chives, lemon juice, salt, and pepper.\n4. Place a snail in each shell and spoon a small amount of the herb butter mixture over each snail.\n5. Arrange the snails in a baking dish and bake for 10-15 minutes, or until the butter is bubbly and the snails are heated through.\n6. Serve hot with crusty bread to soak up the butter sauce.",
+        "Image": "https://i.ibb.co/5xrDsQv/top-view-delicious-mushrooms-meal-with-fresh-greens-tomatoes-dark-floor-dish-dinner-meal-cooking-mus.jpg",
+        "Likes": 1200
+      },
+      {
+        "RecipeName": "Mousse au Chocolat",
+        "Ingredients": [
+          "8 oz dark chocolate,4 eggs,1/4 cup sugar,1/4 cup strong coffee,1/4 cup heavy cream,1 tsp vanilla extract"
+        ],
+        "Directions": "1. Melt the chocolate in a double boiler or in the microwave, stirring occasionally until smooth.\n2. Separate the egg yolks and whites into two different bowls.\n3. Beat the egg yolks with the sugar until light and fluffy.\n4. Stir in the melted chocolate and coffee into the egg yolk mixture.\n5. In a separate bowl, whip the cream and vanilla extract until stiff peaks form.\n6. Beat the egg whites until stiff peaks form.\n7. Gently fold the whipped cream into the chocolate mixture.\n8. Gently fold the beaten egg whites into the chocolate mixture.\n9. Spoon the mousse into individual serving dishes and chill in the refrigerator for at least 2 hours, or until set.\n10. Serve the mousse with whipped cream and fresh berries, if desired.",
+        "Image": "https://i.ibb.co/FXF8YFf/brooke-lark-j-Zvl-T-Fv-TZM-unsplash.jpg",
+        "Likes": 1200
+      },
+      {
+        "RecipeName": "Quiche Lorraine",
+        "Ingredients": [
+          "chicken,red wine,mushrooms,bacon,onion,garlic,thyme,bay leaves,flour,salt,peppe"
+        ],
+        "Directions": "1. Preheat oven to 375°F. 2. In a large skillet, cook bacon until crisp. Remove with a slotted spoon and set aside. 3. In a large mixing bowl, whisk together eggs, heavy cream, salt, pepper, and nutmeg. 4. Stir in bacon and grated cheese. 5. Pour mixture into a pie crust. 6. Bake for 35-40 minutes, or until set. 7. Let cool for 10 minutes before slicing and serving.",
+        "Image": "https://i.ibb.co/0QKYK1Y/side-view-casserole-with-potato-cheese-tomato-clay-dish-1.jpg",
+        "Likes": 800
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "ChefPicture": "https://i.ibb.co/cwN8B8B/portrait-positive-smiling-head-chef-standing-professional-restaurant-kitchen-while-looking-camera-co.jpg",
+    "ChefName": "Marie Leclerc",
+    "YearsOfExperience": 15,
+    "NumbersoFrecipes": 80,
+    "Likes": 2500,
+    "recipes": [
+      {
+        "RecipeName": "Pain Perdu",
+        "Ingredients": [
+          "4 thick slices of bread,2 eggs,1/2 cup milk,2 tbsp sugar,1 tsp vanilla extract,1/4 tsp cinnamon,2 tbsp butter,Powdered sugar, for serving,Maple syrup, for servin"
+        ],
+        "Directions": "1. In a shallow bowl, whisk together the eggs, milk, sugar, vanilla extract, and cinnamon.\n2. Heat a nonstick skillet over medium heat.\n3. Melt 1 tablespoon of butter in the skillet.\n4. Dip each slice of bread into the egg mixture, making sure to coat both sides.\n5. Place the bread in the skillet and cook until golden brown on both sides, about 2-3 minutes per side.\n6. Repeat with the remaining slices of bread, adding more butter to the skillet as needed.\n7. Serve the pain perdu hot with a dusting of powdered sugar and maple syrup.",
+        "Image": "https://i.ibb.co/PM7QqDq/top-view-tandir-breads-blue-cloth-wooden-table-1.jpg",
+        "Likes": 800
+      },
+
+      {
+        "RecipeName": "Pissaladière",
+        "Ingredients": [
+          "1 lb. pizza dough",
+          "4 tbsp olive oil",
+          "4 large onions, sliced",
+          "4 garlic cloves, minced"
+        ],
+        "Directions": "1. Preheat oven to 450°F.\n2. In a large skillet, heat 2 tbsp of olive oil over medium heat. Add the onions and garlic and cook until the onions are softened and lightly caramelized.\n3. Stir in the thyme, rosemary, salt, and pepper.\n4. Roll out the pizza dough to fit a 9x13 inch baking sheet.\n5. Brush the remaining 2 tbsp of olive oi",
+        "Image": "https://i.ibb.co/k4XFYNG/close-up-photo-classic-quiche-lorraine-pie-with-tomatoes.jpg",
+        "Likes": 800
+      },
+      {
+        "RecipeName": "Soupe à l'oignon",
+        "Ingredients": [
+          "5 cups beef broth",
+          "4 onions, thinly sliced",
+          "2 tbsp butter",
+          "1 cup grated Gruyere cheese"
+        ],
+        "Directions": "1. In a large pot, melt the butter over medium heat. Add the onions and cook until caramelized, stirring occasionally.\n2. Sprinkle the flour over the onions and stir well to combine.\n3. Add the white wine and stir well. Cook for a few minutes, until the wine has reduced.\n4. Add the beef broth, bay leaf, thyme, salt, and pepper. Bring to a boil, then reduce the heat and let simmer for 30 minutes.",
+        "Image": "https://i.ibb.co/X8SjJGj/lentil-soup-with-mixed-ingredients-herbs-white-bowl-with-spoon-1.jpg",
+        "Likes": 1200
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "ChefPicture": "https://i.ibb.co/8dW84tC/portrait-smiling-chef-uniform.jpg",
+    "ChefName": "Sophie Martin",
+    "YearsOfExperience": 8,
+    "NumbersoFrecipes": 40,
+    "Likes": 1200,
+    "recipes": [
+      {
+        "RecipeName": "Croque Monsieur",
+        "Ingredients": [
+          "sourdough bread",
+          "ham",
+          "gruyere cheese",
+          "bechamel sauce",
+          "butter"
+        ],
+        "Directions": "1. Preheat a skillet over medium heat. 2. Spread butter on one side of each slice of bread. 3. Place one slice of bread butter-side down in the skillet. 4. Add a layer of ham and gruyere cheese on top of the bread. 5. Spoon bechamel sauce over the cheese. 6. Add another layer of ham and gruyere cheese. 7. Top with another slice of bread, butter-side up. 8. Cook for a few minutes on each side until the bread is toasted and the cheese is melted. 9. Serve hot.",
+        "Image": "https://i.ibb.co/7gcCdqq/pie-with-meat.jpg",
+        "Likes": 1200
+      },
+      {
+        "RecipeName": "Quiche Lorraine",
+        "Ingredients": [
+          "pie crust",
+          "bacon",
+          "onion",
+          "eggs",
+          "heavy cream",
+          "salt",
+          "pepper",
+          "nutmeg",
+          "gruyere cheese"
+        ],
+        "Directions": "1. Preheat oven to 375°F. 2. Cook bacon in a skillet until crispy, then remove and set aside. 3. In the same skillet, sauté diced onion until softened. 4. In a large bowl, whisk together eggs, heavy cream, salt, pepper, and nutmeg. 5. Stir in crumbled bacon, sautéed onion, and grated Gruyere cheese. 6. Pour mixture into a pie crust and bake for 35-40 minutes, or until the filling is set and the crust is golden brown. 7. Let cool for 10 minutes before slicing and serving.",
+        "Image": "https://i.ibb.co/r6mmJFS/side-view-casserole-with-potato-cheese-tomato-clay-dish-2.jpg",
+        "Likes": 500
+      },
+      {
+        "RecipeName": "Gratin Dauphinois",
+        "Ingredients": [
+          "2 lbs potatoes, peeled and sliced thinly",
+          "2 cups heavy cream",
+          "2 cups whole milk",
+          "2 cloves garlic, minced",
+          "2 tbsp butter"
+        ],
+        "Directions": "1. Preheat the oven to 375°F. Butter a large baking dish.\n2. In a large saucepan, combine the potatoes, cream, milk, garlic, butter, salt, pepper, and nutmeg. Cook over medium heat until the potatoes are tender, about 20 minutes.",
+        "Image": "https://i.ibb.co/VWFsLHc/jonathan-pielmayer-FQWt-CUi-E4-GM-unsplash.jpg",
+        "Likes": 800
+      }
+    ]
+  }
+]
